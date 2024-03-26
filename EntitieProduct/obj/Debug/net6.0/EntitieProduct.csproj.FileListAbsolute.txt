@@ -1,0 +1,15 @@
+C:\Users\João\source\repos\AutoGlassProduct\EntitieProduct\bin\Debug\net6.0\EntitieProduct.deps.json
+C:\Users\João\source\repos\AutoGlassProduct\EntitieProduct\bin\Debug\net6.0\EntitieProduct.runtimeconfig.json
+C:\Users\João\source\repos\AutoGlassProduct\EntitieProduct\bin\Debug\net6.0\EntitieProduct.dll
+C:\Users\João\source\repos\AutoGlassProduct\EntitieProduct\bin\Debug\net6.0\EntitieProduct.pdb
+C:\Users\João\source\repos\AutoGlassProduct\EntitieProduct\obj\Debug\net6.0\EntitieProduct.csproj.AssemblyReference.cache
+C:\Users\João\source\repos\AutoGlassProduct\EntitieProduct\obj\Debug\net6.0\EntitieProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\source\repos\AutoGlassProduct\EntitieProduct\obj\Debug\net6.0\EntitieProduct.AssemblyInfoInputs.cache
+C:\Users\João\source\repos\AutoGlassProduct\EntitieProduct\obj\Debug\net6.0\EntitieProduct.AssemblyInfo.cs
+C:\Users\João\source\repos\AutoGlassProduct\EntitieProduct\obj\Debug\net6.0\EntitieProduct.csproj.CoreCompileInputs.cache
+C:\Users\João\source\repos\AutoGlassProduct\EntitieProduct\obj\Debug\net6.0\EntitieProduct.sourcelink.json
+C:\Users\João\source\repos\AutoGlassProduct\EntitieProduct\obj\Debug\net6.0\EntitieProduct.dll
+C:\Users\João\source\repos\AutoGlassProduct\EntitieProduct\obj\Debug\net6.0\refint\EntitieProduct.dll
+C:\Users\João\source\repos\AutoGlassProduct\EntitieProduct\obj\Debug\net6.0\EntitieProduct.pdb
+C:\Users\João\source\repos\AutoGlassProduct\EntitieProduct\obj\Debug\net6.0\EntitieProduct.genruntimeconfig.cache
+C:\Users\João\source\repos\AutoGlassProduct\EntitieProduct\obj\Debug\net6.0\ref\EntitieProduct.dll
